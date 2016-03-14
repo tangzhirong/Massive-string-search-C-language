@@ -1,2 +1,5 @@
 # Massive-string-search-C-language
-problem description:use bloom filter algorithm and trie to find out wether the given 1000 email address are in the 1500w email address
+problem description:
+      Using bloom filter and trie algorithm, to find out whether the given 1000 email address are in the 1500w email address
+
+
