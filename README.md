@@ -2,7 +2,6 @@
 Problem Description:
       Using bloom filter and trie algorithm, to find out whether the given 1000 email address are in the 1500w email address
 
-Welcome to the Massive-string-search-C-language wiki!
 问题描述：
     利用尽量低的时间和空间复杂度（低内存占用和快计算速率），判断给定的1000个email地址是否在给定的1500万个email地址中，输出YES or NO。
 
